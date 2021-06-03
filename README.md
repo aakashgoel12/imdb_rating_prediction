@@ -1,4 +1,4 @@
-## Table of contents
+## Table of contents in Jupyter File (code/imdb_score_prediction.ipynb)
 
 1. <a href="#1.-STEP-I:-Setting-up-Problem">STEP I: Setting up Problem</a>        
     1.1. <a href="#1.1-Introduction">Introduction</a>    
